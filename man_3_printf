@@ -1,5 +1,5 @@
 .\" Manpage for _printf.
-.TH _printf (3) "19 April 2022" "" "_printf manpage"
+.TH _printf (3) "19 Apr 2022" "" "_printf manpage"
 .so man3./_printf
 .SH NAME
     _printf \- format and print data
@@ -32,4 +32,4 @@
 .SH BUGS
     No known bugs.
 .SH AUTHOR
-    Written by Koketso Malatji and Adada Edia
+    Written by Koketso Malatji and Adida Edia
